@@ -1,0 +1,74 @@
+{   
+    "common":{
+        "nav":{
+            "home":"beranda",
+            "shop":"belanja",
+            "cart":"keranjang",
+            "favorites":"favorit",
+            "profile":"profil"
+        },
+        "buttons":{
+            "add_to_cart":"tambah ke keranjang",
+            "check_out":"check out",
+            "continue_shopping":"lanjut berbelanja"
+        },
+        "placeholder":{
+            "name":"Zain Achmad R",
+            "mail":"zainnardo123@gmail.com"
+        },
+        "messages":{
+            "favorite_add":"Ditambakan ke favorit.",
+            "favorite_remove":"Dihapus dari favorit.",
+            "cart_add":"Ditambahkan ke keranjang.",
+            "cart_remove":"Dihapus dari keranjang."
+        }
+    },
+    "home":{
+        "title":"Keluaran Terbaru",
+        "sale":"Pakaian\nHari ini",
+        "hoodies":"Pakaian Sehari-hari",
+        "black":"Seragam Resmi"
+    },
+    "shop":{
+        "title":"produk",
+        "sort":"urutkan dari",
+        "sort_types":{
+            "popular":"populer",
+            "newest":"terbaru",
+            "reviews":"ulasan",
+            "price_low":"Harga: Tertinggi ke Terrendah",
+            "price_high":"Harga: Terrendah ke Tertinggi"
+        }
+    },
+    "cart":{
+        "title":"keranjang saya",
+        "promo":"masukkan kode promo anda",
+        "total":"total pembayaran",
+        "codes":"kode promo anda",
+        "apply":"gunakan",
+        "empty":"keranjang mu kosong :("
+    },
+    "favorites":{
+        "title":"favorit",
+        "empty":"tidak ada favorit"
+    },
+    "profile":{
+        "title":"profil saya",
+        "orders":"pesanan saya",
+        "addresses":"alamat pengiriman",
+        "methods":"metode pembayaran",
+        "codes":"kode promosi",
+        "reviews":"ulasan saya",
+        "settings":"pengaturan",
+        "theme":"tema gelap",
+        "phone":"phone:"
+        },
+    "product_detail":{
+        "shipping_info":"info pengiriman",
+        "support":"bantuan"
+    },
+    "success":{
+        "title":"sukses!",
+        "thanks":"Pesanan anda akan dikirimkan segera.\nTerima kasih telah memilih aplikasi kita!"
+    }
+} 

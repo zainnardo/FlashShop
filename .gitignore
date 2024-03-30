@@ -1,0 +1,7 @@
+# Remove .DS
+.DS_Store
+
+# Restrict .idea & vsCode
+.idea/
+.vscode/
+
